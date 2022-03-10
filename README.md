@@ -1,7 +1,5 @@
 ### Hello There, I'm Christopher Arias
 
-I'm a Full-Stack Javascript Developer excited to learn and wanting to join your next project.  
-
 **Website**: https://www.ariaslabs.com
 
 **Here are a couple things I enjoy** ╰(*°▽°*)╯  

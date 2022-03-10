@@ -6,6 +6,6 @@ I'm a Full-Stack Javascript Developer excited to learn and wanting to join your 
 
 **Here are a couple things I enjoy**  
 
-*Audio* - Love listening to the same thing different ways  
-*Espresso* - The thing that keeps me awake  
-*Tinkering* - Love me some things to take apart and look at   
+*Modular* - Enjoy making beeps and boops.
+*Espresso* - The thing that keeps me awake. 
+*Tinkering* - Love me some things to take apart.

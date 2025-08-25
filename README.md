@@ -17,9 +17,6 @@
   </p>
 
 <br />
-<p align="center">
-  <i>"If you ain't first, you're last" - Ricky Bobby</i>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cjariasjr/">LinkedIn</a>
